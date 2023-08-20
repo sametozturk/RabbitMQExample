@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RBProducer", "RBProducer\RBProducer.csproj", "{59B5FCC0-0CCE-4C18-8250-6E7C7B014B05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RBConsumer", "RBConsumer\RBConsumer.csproj", "{D014D27E-3C4E-43CB-851A-D6A3EC900D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B5FCC0-0CCE-4C18-8250-6E7C7B014B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B5FCC0-0CCE-4C18-8250-6E7C7B014B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B5FCC0-0CCE-4C18-8250-6E7C7B014B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B5FCC0-0CCE-4C18-8250-6E7C7B014B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D014D27E-3C4E-43CB-851A-D6A3EC900D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D014D27E-3C4E-43CB-851A-D6A3EC900D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D014D27E-3C4E-43CB-851A-D6A3EC900D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D014D27E-3C4E-43CB-851A-D6A3EC900D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A057A7-D75E-4F5D-BA13-28A2A038EDF2}
+	EndGlobalSection
+EndGlobal
